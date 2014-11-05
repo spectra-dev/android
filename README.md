@@ -1,4 +1,4 @@
-Spectra Android
+android
 =======
 
 Spectra Development Android Apps
